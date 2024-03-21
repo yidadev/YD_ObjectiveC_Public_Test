@@ -1,0 +1,21 @@
+PODS:
+  - Reachability (3.2)
+  - TYFoundationKit (1.16.2):
+    - Reachability
+
+DEPENDENCIES:
+  - TYFoundationKit (= 1.16.2)
+
+SPEC REPOS:
+  https://github.com/TuyaInc/TuyaPublicSpecs.git:
+    - TYFoundationKit
+  trunk:
+    - Reachability
+
+SPEC CHECKSUMS:
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  TYFoundationKit: b50491309fc432b20f7483dfad8823ec21a39b46
+
+PODFILE CHECKSUM: dd3ac693096c0fb87652c56fa95705f5c059ff1d
+
+COCOAPODS: 1.13.0

@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E0418198-EDBD-4215-8328-417E4F5D9003"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0E736F6-54DD-4577-82E4-6F06E068B033"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "+resolveInstanceMethod:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D0E736F6-54DD-4577-82E4-6F06E068B033 - 75f991417643a87b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[MyClass resolveInstanceMethod:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "D0E736F6-54DD-4577-82E4-6F06E068B033 - 75f991417643a87b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[MyClass resolveInstanceMethod:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D0E736F6-54DD-4577-82E4-6F06E068B033 - 75f991417643a9bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[MyClass resolveInstanceMethod:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D0E736F6-54DD-4577-82E4-6F06E068B033 - 75f991417643a8b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[MyClass resolveInstanceMethod:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D0E736F6-54DD-4577-82E4-6F06E068B033 - 75f991417643a8f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[MyClass resolveInstanceMethod:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E6A34E1-5C94-4E04-84DE-CCA304C328E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "-forwardingTargetForSelector:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E6A34E1-5C94-4E04-84DE-CCA304C328E9 - 6b6c45266fd3e97d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass forwardingTargetForSelector:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "66">
+               </Location>
+               <Location
+                  uuid = "9E6A34E1-5C94-4E04-84DE-CCA304C328E9 - 6b6c45266fd3e91c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass forwardingTargetForSelector:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9E6A34E1-5C94-4E04-84DE-CCA304C328E9 - 6b6c45266fd3e95e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass forwardingTargetForSelector:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9E6A34E1-5C94-4E04-84DE-CCA304C328E9 - 6b6c45266fd3ee56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass forwardingTargetForSelector:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9E6A34E1-5C94-4E04-84DE-CCA304C328E9 - 6b6c45266fd3e990"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass forwardingTargetForSelector:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C57F9897-F2F9-498E-B8FE-788B08A55BCE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "-forwardInvocation:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C57F9897-F2F9-498E-B8FE-788B08A55BCE - 4a75bf1da2832307"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass forwardInvocation:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "C57F9897-F2F9-498E-B8FE-788B08A55BCE - 4a75bf1da2832307"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass forwardInvocation:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "C57F9897-F2F9-498E-B8FE-788B08A55BCE - 4a75bf1da2832345"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass forwardInvocation:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "C57F9897-F2F9-498E-B8FE-788B08A55BCE - 4a75bf1da283225d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass forwardInvocation:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "C57F9897-F2F9-498E-B8FE-788B08A55BCE - 4a75bf1da283239b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass forwardInvocation:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34A330A9-3219-4FBA-90CB-CFC0BD45EA78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "-methodSignatureForSelector:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34A330A9-3219-4FBA-90CB-CFC0BD45EA78 - 6d615dc7b46995f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass methodSignatureForSelector:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "34A330A9-3219-4FBA-90CB-CFC0BD45EA78 - 6d615dc7b46995f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass methodSignatureForSelector:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "34A330A9-3219-4FBA-90CB-CFC0BD45EA78 - 6d615dc7b4699437"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass methodSignatureForSelector:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "34A330A9-3219-4FBA-90CB-CFC0BD45EA78 - 6d615dc7b469953f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass methodSignatureForSelector:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "34A330A9-3219-4FBA-90CB-CFC0BD45EA78 - 6d615dc7b4699579"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyClass methodSignatureForSelector:]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "996B816C-8999-453A-95CD-450938BA22B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/SubViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "996B816C-8999-453A-95CD-450938BA22B4 - ac8a0296fdcae763"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SubViewController viewDidLoad]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/SubViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "996B816C-8999-453A-95CD-450938BA22B4 - ac8a0296fdcae78e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SubViewController viewDidLoad]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/SubViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "996B816C-8999-453A-95CD-450938BA22B4 - ac8a0296fdcae702"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SubViewController viewDidLoad]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/SubViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "996B816C-8999-453A-95CD-450938BA22B4 - ac8a0296fdcae74c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SubViewController viewDidLoad]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/SubViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "996B816C-8999-453A-95CD-450938BA22B4 - ac8a0296fdcae7ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SubViewController viewDidLoad]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/SubViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D72F91D-14A7-4425-BB12-DFBC6E9A1993"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
+            landmarkName = "-testBlock"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3ACDBE53-C3E7-4B68-AF12-D8648E0BB9F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "-init"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3ACDBE53-C3E7-4B68-AF12-D8648E0BB9F2 - 8c5fb88118db6b5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[Son init]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "3ACDBE53-C3E7-4B68-AF12-D8648E0BB9F2 - 8c5fb88118db6b5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[Son init]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  uuid = "3ACDBE53-C3E7-4B68-AF12-D8648E0BB9F2 - 8c5fb88118db6be4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[Son init]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  uuid = "3ACDBE53-C3E7-4B68-AF12-D8648E0BB9F2 - 8c5fb88118db6a1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[Son init]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  uuid = "3ACDBE53-C3E7-4B68-AF12-D8648E0BB9F2 - 8c5fb88118db6ade"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[Son init]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "75">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E966D9C-579C-4F9F-B7BE-3E8E8F10A6B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/HitTestViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "-buttonAction:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "377108DF-B3E1-40B7-B65E-91E5DE52D83B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/DBTestViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "377108DF-B3E1-40B7-B65E-91E5DE52D83B - d64b798c08d101af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[DBTestViewController viewDidLoad]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/DBTestViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "377108DF-B3E1-40B7-B65E-91E5DE52D83B - d64b798c08d1018e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[DBTestViewController viewDidLoad]"
+                  moduleName = "MyTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/weizhang/Desktop/Test/MyTestApp/MyTestApp/DBTestViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D93FDB3A-9D05-42C5-8E38-F17367B000D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/GCDViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB787830-D0F6-45BE-A754-F7E3761418DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "-buttonActionHitTestA:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43F9C0A9-E0E0-4B7E-97C2-929990586A98"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTestApp/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "-buttonActionHitTestA:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
